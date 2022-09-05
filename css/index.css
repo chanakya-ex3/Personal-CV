@@ -1,0 +1,49 @@
+body{
+    background-color: #72FFFF;
+    font-family: 'Montserrat', sans-serif;
+    }
+hr{
+    border-style: none;
+    border-top: dotted;
+    color: #00D7FF;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+    color: #5800FF;
+}
+h3{
+    color: #0096FF;
+}
+
+#printbutton{
+    background-color:#0096FF;
+    border: 0px;
+    border-radius: 50px;
+    position: absolute;
+    left:470px;
+    font-weight:bolder;
+
+}
+#scrolltotop{
+    background-color:#0096FF;
+    border: 0px;
+    border-radius: 50px;
+    position: absolute;
+    left:670px;
+    font-weight:bolder;
+
+}
+
+.socialicons{
+    position:relative;
+    top: 10px;  
+    padding-left: 20px;  
+    padding-right: 50px;
+    width: 30px;
+}
+
+input, textarea{
+    border-radius: 10px;
+    background-color: #0bd6fa;
+}
